@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_NM" : "mamunDemo",
+        "MONGO_ATLAS_PW" : "7Z*WXz!U4hiVepz",
+        "JWT_KEY" : "secret0344"
+    }
+}
